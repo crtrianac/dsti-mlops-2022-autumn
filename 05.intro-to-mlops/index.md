@@ -162,5 +162,26 @@ Generally:
 
 ## AWS 
 This is the scenario with no MLops
-<img width="1680" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/36f65739-aac6-4700-98fa-b917e3edbba5">
+Source : https://www.youtube.com/watch?v=UnAN35gu3Rw 
+<img width="832" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/677d4dae-8ceb-4065-8ab9-6b506dfaf306">
+
+What is MLOps ? 
+<img width="1218" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/8254c177-5408-4f13-9c02-9d47c1ce35b5">
+Operational processs -> Right people wiht the right set of skills
+
+Small team
+<img width="826" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/98bf3d03-d434-4d73-8982-e1cde03361e7">
+
+1. add more versioning of the code and artifacts
+2. automatic pipepline (trigger: manual or automatic)
+3. model registery helps
+4. automatic scale group
+
+Medium team
+<img width="822" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/20a7e6c4-4f1d-4bcf-8042-099b4f635739">
+
+<img width="792" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/d85298a8-63db-4769-b4dc-97f16793b9d0">
+
+<img width="740" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/e593da2c-36a3-4dc0-9c38-7679569e10e6">
+1st start with versioning and automation
 
