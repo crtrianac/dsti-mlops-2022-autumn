@@ -159,3 +159,8 @@ Need of additional components:
 Generally:
 - Starting with the simplest system  
 - Gradual improvements: automation of critical steps, adding tests, adding model monitoring...
+
+## AWS 
+This is the scenario with no MLops
+<img width="1680" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/36f65739-aac6-4700-98fa-b917e3edbba5">
+
