@@ -121,3 +121,12 @@ We will focus on dataset tracking (versioning).
 ### Practical example
 
 ![Example schema](./assets/lab_schema.png)
+
+
+#DVC in practice
+<img width="510" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-
+  ![image](https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/b3403583-c3f5-4979-8ae5-ae5472148003)
+autumn/assets/36132629/c8837b34-8fd0-4269-b9e2-100f219b297d">
+![Uploading image.png…]()
+
+
