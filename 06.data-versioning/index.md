@@ -146,5 +146,6 @@ we can get the log
 <img width="604" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/d5a7efff-1b3c-457d-b74c-6d8477a3e2f2">
 
 
+adding a project (local) to a repository
 
 <img width="640" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/7c3b6dad-b0f2-47a0-9f95-b87f47ba9641">
