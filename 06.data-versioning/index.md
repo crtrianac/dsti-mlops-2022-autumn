@@ -142,3 +142,9 @@ git add to track the changes on the repository you want to track
 <img width="840" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/ffc55cb2-0710-46df-8d50-d2d4cdc4eff0">
 we can get the log
 <img width="472" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/56102b13-5eb2-4ca8-bd95-4e28c49f3e61">
+
+<img width="604" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/d5a7efff-1b3c-457d-b74c-6d8477a3e2f2">
+
+
+
+<img width="640" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/7c3b6dad-b0f2-47a0-9f95-b87f47ba9641">
