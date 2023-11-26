@@ -121,3 +121,31 @@ We will focus on dataset tracking (versioning).
 ### Practical example
 
 ![Example schema](./assets/lab_schema.png)
+
+
+#DVC in practice
+https://youtu.be/kLKBcPonMYw 
+<img width="483" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/4963b917-0576-424c-8671-0e4399ee9e93">
+
+<img width="342" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/d2644a22-3f44-44c2-bc4b-2d7dbda1ee9e">
+Adding a DVC remote in google drive 
+<img width="844" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/b11ba901-f914-40bf-80ce-2b9675473ef4">
+data is going going to be push ont hte file that you have created
+now you can remove and add data via the git -> DVC-> cloud
+<img width="365" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/307b5ca2-a37b-4317-8537-d64f25b9f5b2">
+lets cahnge the data set and move forward and backads 
+copy and concatinate the data
+dvc add-> adding it , commint it, pushing and then tracking it ( we now have 2 versions of our data storage
+<img width="365" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/4060de20-4918-4a48-a644-2dbf12d75301">
+How can we move forward and backward
+git add to track the changes on the repository you want to track
+<img width="840" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/ffc55cb2-0710-46df-8d50-d2d4cdc4eff0">
+we can get the log
+<img width="472" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/56102b13-5eb2-4ca8-bd95-4e28c49f3e61">
+
+<img width="604" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/d5a7efff-1b3c-457d-b74c-6d8477a3e2f2">
+
+
+adding a project (local) to a repository
+
+<img width="640" alt="image" src="https://github.com/crtrianac/dsti-mlops-2022-autumn/assets/36132629/7c3b6dad-b0f2-47a0-9f95-b87f47ba9641">
